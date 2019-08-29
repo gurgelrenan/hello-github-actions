@@ -11,5 +11,6 @@ jobs:
         MY_NAME: "Mona"
   cow:
     name: Cowsays
+    runs-on: ubuntu-latest
     steps:
     - uses: mscoutermarsh/cowsays-action@🐮
