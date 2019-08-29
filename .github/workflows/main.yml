@@ -9,3 +9,5 @@ jobs:
     - uses: ./action-a
       env:
         MY_NAME: "Mona"
+    name: Cowsays
+    - uses: mscoutermarsh/cowsays-action@🐮
