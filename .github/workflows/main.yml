@@ -9,3 +9,6 @@ jobs:
     - uses: ./action-a
       env:
         MY_NAME: "Mona"
+  cow:
+    name: Cowsays
+    uses: mscoutermarsh/cowsays-action@🐮
